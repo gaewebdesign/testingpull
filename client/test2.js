@@ -6,4 +6,4 @@ const r = 1
 
 const t = r + eight + nine
 
-console.log("answer: " + t )
+console.log("answer: " + t + t)
