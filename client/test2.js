@@ -1,4 +1,4 @@
-const f = (d) => { d*d }
+const f = (d) => { d*d *d}
 const eight="8"
 
 const nine = "99"
