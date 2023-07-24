@@ -10,3 +10,9 @@ const t = r + eight + nine + r
 console.log("answer: " + t + t)
 
 const twitterX = "twitter"
+
+function myf(){
+  t=23
+  
+  
+}
